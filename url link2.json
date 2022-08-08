@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "id": "1641",
+            "parent_exercise_id": null,
+            "name": "hackathon",
+            "slug": "bas-ek-galti__hackathon",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/hackathon.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1655",
+            "parent_exercise_id": null,
+            "name": "choco-yea-late",
+            "slug": "bas-ek-galti__choco-yea-late",
+            "sequence_num": 300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/choco-yea-late.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1649",
+                    "parent_exercise_id": "1642",
+                    "name": "sabad-ginti",
+                    "slug": "bas-ek-galti__syntax-errors/sabad-ginti",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/sabad-ginti.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1650",
+                    "parent_exercise_id": "1642",
+                    "name": "string-both",
+                    "slug": "bas-ek-galti__syntax-errors/string-both",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/string-both.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1651",
+                    "parent_exercise_id": "1642",
+                    "name": "time-traveler",
+                    "slug": "bas-ek-galti__syntax-errors/time-traveler",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/time-traveler.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1661",
+                    "parent_exercise_id": "1642",
+                    "name": "print-print",
+                    "slug": "bas-ek-galti__syntax-errors/print-print",
+                    "sequence_num": 2004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/print-print.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1648",
+                    "parent_exercise_id": "1642",
+                    "name": "odd-values-function",
+                    "slug": "bas-ek-galti__syntax-errors/odd-values-function",
+                    "sequence_num": 2005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/odd-values-function.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1643",
+            "parent_exercise_id": null,
+            "name": "dictionary-ji",
+            "slug": "bas-ek-galti__dictionary-ji",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/dictionary-ji.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1660",
+                    "parent_exercise_id": "1656",
+                    "name": "str-string-stringly",
+                    "slug": "bas-ek-galti__logical-errors/str-string-stringly",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/logical-errors/str-string-stringly.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1658",
+                    "parent_exercise_id": "1656",
+                    "name": "ulta-sida-ek-saman",
+                    "slug": "bas-ek-galti__logical-errors/ulta-sida-ek-saman",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/logical-errors/ulta-sida-ek-saman.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1659",
+                    "parent_exercise_id": "1656",
+                    "name": "loops-se-NG-ki-jung\n",
+                    "slug": "bas-ek-galti__logical-errors/loops-se-NG-ki-jung",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/logical-errors/loops-se-NG-ki-jung.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1645",
+            "parent_exercise_id": null,
+            "name": "grades",
+            "slug": "bas-ek-galti__grades",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/grades.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1647",
+            "parent_exercise_id": null,
+            "name": "bmi",
+            "slug": "bas-ek-galti__bmi",
+            "sequence_num": 600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/bmi.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1644",
+            "parent_exercise_id": null,
+            "name": "classes",
+            "slug": "bas-ek-galti__classes",
+            "sequence_num": 700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/classes.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1642",
+            "parent_exercise_id": "1642",
+            "name": "pirates",
+            "slug": "bas-ek-galti__syntax-errors/pirates",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/syntax-errors/pirates.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1656",
+            "parent_exercise_id": "1656",
+            "name": "kya-hai-yeh-list-comprehension",
+            "slug": "bas-ek-galti__logical-errors/kya-hai-yeh-list-comprehension",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/logical-errors/kya-hai-yeh-list-comprehension.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

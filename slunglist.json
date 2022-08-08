@@ -1,0 +1,12 @@
+{
+    "id": "1641",
+    "parent_exercise_id": null,
+    "name": "hackathon",
+    "slug": "bas-ek-galti__hackathon",
+    "sequence_num": 0,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Bas Ek Aur Galti\\n\\n Coding karoge, toh errors to aayenge hi. Aur errors ko samajh kar, ussse theek karna ek bahut important programming skill hai. Aapko iss hack-a-thon mei aise hi kuch errors ko solve karna hai. Good luck! \"},{\"type\":\"image\",\"value\":{\"url\":\"https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/bas-ek-galti/assets/error.png\"}},{\"type\":\"markdown\",\"value\":\" \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/bas-ek-galti/hackathon.md"
+}
